@@ -1,0 +1,24 @@
+{
+  "name": "bootstrap-sass",
+  "version": "0.0.0",
+  "description": "Bootstrap for SASS",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/pointcom/bootstrap-sass.git"
+  },
+  "keywords": [
+    "bootstrap",
+    "sass"
+  ],
+  "author": "",
+  "license": "BSD",
+  "readmeFilename": "README.md",
+  "gitHead": "e9b4759e4e930b2b2d7f00a575a6db6328b47ab2"
+}
